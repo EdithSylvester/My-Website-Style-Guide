@@ -1,0 +1,154 @@
+.header{
+    font-family: Comfortaa, Arial, Helvetica, sans-serif;
+    background-color: #778899;
+    padding: 40px;
+    margin: 40px;
+    text-align: center;
+
+}
+
+.colors-container{
+    font-family: Bad Script, Arial, Helvetica, sans-serif;
+    background-color: #F0F8FF;
+    border: 3px solid black;
+    padding: 30px;
+    margin: 40px;
+}
+
+.h2-font{
+    font-family: Poiret One, Arial;
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+.colors-lgray {
+    background-color: #778899;
+    border: 2px solid black;
+    margin: 1px;
+    margin: 40px;
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+}
+.colors-dgray {
+    background-color: #2F4F4F;
+    color: white;
+    border: 2px solid black;
+    margin: 1px;
+    margin: 40px;
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+}
+.colors-black{
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    margin: 1px;
+    margin: 40px;
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+}
+.colors-blue{
+    background-color: #F0F8FF;
+    border: 2px solid black;
+    margin: 1px;
+    margin: 40px;
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.light-gray:hover {
+    color: whitesmoke;
+    transform: scale(1.5);
+}
+.dark-gray:hover{
+    color: white;
+    transform: scale(1.5)
+}
+.black:hover{
+    color: white;
+    transform: scale(1.5)
+}
+.a-blue:hover{
+    transform: scale(1.5)
+}
+
+.fonts-container{
+    background-color: #F0F8FF;
+    border: 3px solid black;
+    padding: 30px;
+    margin: 40px;
+}
+
+.Comfortaa {
+    font-family: comfortaa, Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 60px;
+    display: inline-block;
+    text-align: center;
+}
+
+.Poiret-One{
+    font-family: Poiret One, Arial, Helvetica, sans-serif; 
+    margin: 1px;
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.bad-script{
+    font-family: Bad Script, Arial, Helvetica, sans-serif; 
+    margin: 1px;
+    padding: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.h3-underline{
+    text-decoration: underline;
+}
+
+.Comfortaa:hover{
+    transform: scale(1.5)
+}
+.Poiret-One:hover{
+    transform: scale(1.5)
+}
+.bad-script:hover{
+    transform: scale(1.5)
+}
+
+.text-styles-container{
+    background-color: #F0F8FF;
+    border: 3px solid black;
+    padding: 30px;
+    margin: 40px;
+}
+
+.underline{
+    font-family: Comfortaa, Arial, Helvetica, sans-serif;
+}
+.underline:hover{
+    text-decoration: underline;
+    background-color: #2F4F4F;
+    color: white;
+}
+.heading {
+    font-family: Bad Script, Arial;
+}
+.subheading{
+    font-family: Bad script, Arial;
+}
+.underline-Subheading {
+    font-family: Poiret One,Arial;
+}
+.paragraph-text{
+    font-family: Bad Script, Arial;
+}
